@@ -38,6 +38,7 @@ function App() {
             {timeLeft.days}d {timeLeft.hours}h {timeLeft.minutes}m {timeLeft.seconds}s
           </div>
           <img src={pamde_anakin} className="background-image" alt="Star Wars"/>
+          <p>Hey amo</p>
         </header>
       </div>
   );

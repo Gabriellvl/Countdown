@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import "./App.css";
 import pamde_anakin from "./padme_anakin.jpg"; // Replace with your Star Wars image
 
-const next_date = new Date("2024-12-02T16:00:00");
+const next_date = new Date("2025-03-01T16:00:00");
 
 function App() {
   const [timeLeft, setTimeLeft] = useState(calculateTimeLeft());
